@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Edit-Mp3Tags": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Rodrigo\\Videos\""
+    }
+  }
+}
